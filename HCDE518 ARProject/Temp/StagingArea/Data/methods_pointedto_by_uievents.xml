@@ -1,0 +1,16 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="NavigationBehavior">
+			<method name="PlayScene"/>
+			<method name="PlayScene"/>
+			<method name="next"/>
+			<method name="previous"/>
+			<method name="PlayScene"/>
+			<method name="PlayScene"/>
+			<method name="PlayScene"/>
+			<method name="previous"/>
+			<method name="PlayScene"/>
+			<method name="next"/>
+		</type>
+	</assembly>
+</linker>
